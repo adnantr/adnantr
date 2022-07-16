@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Adnan
 
 
-**adnantr/adnantr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/adnantr/adnantr/main/giphy.gif" width="auto">
 
 Here are some ideas to get you started:
 
