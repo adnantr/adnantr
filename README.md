@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Adnan
 
 <hr>
-<img style="display: block; margin: auto;" src="https://raw.githubusercontent.com/adnantr/adnantr/main/giphy.gif" width="auto">
+<div>
+  <img style="display: block; margin: auto;" src="https://raw.githubusercontent.com/adnantr/adnantr/main/giphy.gif" width="auto">
+</div>
+
 
 Here are some ideas to get you started:
 
