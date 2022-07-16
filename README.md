@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Adnan
 
-
-<img src="https://raw.githubusercontent.com/adnantr/adnantr/main/giphy.gif" width="auto">
+<hr>
+<img stryle="aling=center" src="https://raw.githubusercontent.com/adnantr/adnantr/main/giphy.gif" width="auto">
 
 Here are some ideas to get you started:
 
