@@ -4,10 +4,11 @@
 <img style="display: block; margin: auto;" src="https://raw.githubusercontent.com/adnantr/adnantr/main/giphy.gif" width="auto">
 
 <p>
+- 🎓 I'm a Computer Engineer.
   
-- 🔭 I’m currently working on the Web
+- 🔭 I’m currently working on the Web.
   
-- 🌱 I’m currently learning MVC with .Net Core.
+- 🌱 I’m currently learning HTML5, CSS3 and .Net Core.
 </p>
 
 <h3 align="left">Connect with me:</h3>
